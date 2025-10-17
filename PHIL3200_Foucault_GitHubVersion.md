@@ -80,5 +80,5 @@ As we continue to live under increasingly connected and monitored conditions, Fo
 ---
 
 <div align="center" style="font-style:italic; color:#666;">
-  Markdown submission for PHIL*3200 — GitHub-friendly version with visible metadata and Chicago-style footnotes.
+
 </div>

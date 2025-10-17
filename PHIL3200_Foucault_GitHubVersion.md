@@ -75,7 +75,7 @@ As we continue to live under increasingly connected and monitored conditions, Fo
 [^1]: Michel Foucault, *Discipline and Punish: The Birth of the Prison*, trans. Alan Sheridan (New York: Vintage Books, 1977), 195–196.  
 [^2]: Ibid., 200.  
 [^3]: Ibid., 208.  
-[^4]: Ibid., 206.  
+[^4]: Ibid., 206. 
 
 ---
 

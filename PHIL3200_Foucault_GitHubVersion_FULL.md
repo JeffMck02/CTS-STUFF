@@ -6,7 +6,7 @@
 > **Date:** December 3, 2024  
 > **Issue:** 1  
 > **Tags:** Foucault, Panopticism, Discipline, Surveillance, Continental Philosophy  
-
+> **Journal:** CTRL-ALT-DH Issue 3: "A Byte Of Creativity"
 ---
 
 ### **Abstract**

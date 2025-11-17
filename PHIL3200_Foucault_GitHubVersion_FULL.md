@@ -33,7 +33,7 @@ Jeremy Bentham’s Panopticon, while it may have been designed as a physical str
 
 In Foucault's words, “visibility is a trap” (p. 200),[^2] meaning that the Panopticon’s greatest strength lies in its ability to instill in us a state of conscious and permanent visibility in those it seeks to control. This can be seen in things like social media, which has become another means of surveillance and exerting power upon its users. Foucault argues that this principle also extends beyond prisons and (more recently) social media into institutions like schools, factories, and hospitals. Foucault contends that these institutions, similarly to prisons, organize individuals by a multitude of criteria to further facilitate surveillance and normalize behavior. Knowing this, we can now see how institutions don’t rely on overt force but instead continuous observation of behavior that reshapes how we act, forming us into self-regulating subjects of a nearly inescapable system.
 
-![Bentham's Panopticon](images/Panopticon.jpg)
+![Bentham's Panopticon](Images/Panopticon.jpg)
 *Figure 1: Willey Reveley’s 1791 architectural plan of Jeremy Bentham’s Panopticon, illustrating the circular layout with a central inspection tower.*
 
 ---

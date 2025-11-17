@@ -10,7 +10,7 @@
 ---
 
 ### **About Michel Foucault**
-Michel Foucault (1926–1984) was a French philosopher and social theorist known for his influential work on power, knowledge, and the institutions that shape modern life. His writings examine how systems such as prisons, hospitals, schools, and bureaucracies produce forms of discipline that shape how individuals behave and understand themselves. In Discipline and Punish (1975), Foucault traces the emergence of these disciplinary mechanisms from early modern Europe to the present, arguing that the logic of surveillance has become embedded in everyday social practices.
+Michel Foucault (1926–1984) was a French philosopher and social theorist known for his influential work on power, knowledge, and the institutions that shape modern life. His writings examine how systems such as prisons, hospitals, schools, and bureaucracies produce forms of discipline that shape how individuals behave and understand themselves. In Discipline and Punish (1975), Foucault traces the emergence of these disciplinary mechanisms from early modern Europe to the present, arguing that the logic of surveillance has become embedded in everyday social practices. (this bio on Foucault is a revision) 
 
 ### **Abstract**
 This essay explores Michel Foucault’s concept of panopticism in *Discipline and Punish*, analyzing how Jeremy Bentham’s architectural Panopticon becomes a metaphor for modern systems of discipline and surveillance. It examines how these structures extend into institutions such as schools, workplaces, and hospitals, and evaluates the theory’s continued relevance in the digital age of algorithmic control.
@@ -54,6 +54,8 @@ While Foucault’s theory focused on physical spaces, its relevance extends into
 
 In workplaces, tools like employee monitoring software and productivity dashboards extend the reach of panopticism. Even healthcare has adopted digital forms of surveillance, with wearable technology tracking individuals’ health metrics and behaviors. These systems, while often marketed as tools for improvement, reinforce self-regulation and conformist behavior, aligning perfectly with Foucault’s vision of disciplinary power.
 
+Another modern example of disciplinary power can be seen in how creators online adjust their work based on the constant feedback of audiences and algorithms. On platforms like TikTok, YouTube, and Instagram, metrics such as likes, comments, and views function as disciplinary signals that encourage creators to align their content with what performs well. Instead of a guard in a tower, creators are shaped by the invisible expectations of viewers and platform algorithms, leading them to self-regulate their style, topics, and even posting habits. This dynamic illustrates how panoptic logic continues to shape behaviour today—not through direct coercion, but through the internalization of what one believes is being watched, valued, or judged by online audiences. (this paragraph is a revision) 
+
 ---
 
 ## Critical Evaluation
@@ -61,6 +63,8 @@ In workplaces, tools like employee monitoring software and productivity dashboar
 Foucault’s theory of panopticism provides us with an important and (especially these days) relevant framework for understanding the subtle and intrusive operation of power structures in modern society. One of its biggest strengths is how it illuminates how surveillance mechanisms seamlessly integrate into the functioning of institutions and how they strengthen their effectiveness while at the same time, reinforcing control. As Foucault explains, the panoptic mechanism is designed so that “the exercise of power is not added on from the outside, like a rigid, heavy constraint, to the functions it invests, but is so subtly present in them as to increase their efficiency” (p. 206).[^4]
 
 This insight provided by Foucault shows how power becomes an innate part of institutions and society itself, shaping behavior while also appearing as though everything is how it should be. That being said, Foucault’s theory has been subject to criticism and critique for potentially overemphasizing the success of these practices and mechanisms, as these institutions can often be wrought with inefficiencies and incompetence, as well as face resistance and consequences that complicate the smooth-functioning panoptic “machine.” Foucault also describes how individuals and groups subvert and fight against these systems, which is sure to fuel his critics. Moreover, Foucault’s focus on physical spaces of surveillance does not fully account for the complexities of digital and algorithmic control. Modern technologies create forms of surveillance that are more pervasive and less visible, challenging the panoptic model's reliance on implied observation. Additionally, resistance to surveillance, through privacy advocacy, encryption tools, and protest movements, demonstrates that individuals and groups can challenge and subvert disciplinary systems.
+
+A Connection can also be made to Louis Althusser's concept of "Ideological State Apparatuses,"[^5] which describe in a similar way how institutions such as schools, media and our workplaces shape indivudals' behavior through subtle, normalized forms of control. While Althusser approaches this dymanic through ideology instead of surveillance, both thinkers highlight how power operates through everyday institutional structures rather than overt coerion or exercises of power. (this paragraph is a revision) 
 
 ---
 
@@ -76,3 +80,4 @@ Foucault’s panopticism offers an intriguing lens for understanding the evoluti
 [^2]: Ibid., 200.  
 [^3]: Ibid., 208.  
 [^4]: Ibid., 206.  
+[^5]: Louis Althusser, “Ideology and Ideological State Apparatuses,” in *Lenin and Philosophy and Other Essays* (New York: Monthly Review Press, 1971).

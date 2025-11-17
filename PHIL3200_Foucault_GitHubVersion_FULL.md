@@ -9,6 +9,9 @@
 > **Journal:** CTRL-ALT-DH Issue 3: "A Byte Of Creativity"
 ---
 
+### **About Michel Foucault**
+Michel Foucault (1926–1984) was a French philosopher and social theorist known for his influential work on power, knowledge, and the institutions that shape modern life. His writings examine how systems such as prisons, hospitals, schools, and bureaucracies produce forms of discipline that shape how individuals behave and understand themselves. In Discipline and Punish (1975), Foucault traces the emergence of these disciplinary mechanisms from early modern Europe to the present, arguing that the logic of surveillance has become embedded in everyday social practices.
+
 ### **Abstract**
 This essay explores Michel Foucault’s concept of panopticism in *Discipline and Punish*, analyzing how Jeremy Bentham’s architectural Panopticon becomes a metaphor for modern systems of discipline and surveillance. It examines how these structures extend into institutions such as schools, workplaces, and hospitals, and evaluates the theory’s continued relevance in the digital age of algorithmic control.
 
